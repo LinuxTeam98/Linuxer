@@ -1,7 +1,4 @@
-telegram-bot
-============
-
-[![https://telegram.me/joinchat/ALJ3izwBCNXSswCHOKMwGw](https://img.shields.io/badge/💬_Telegram-Bot_Dev._Group-blue.svg)](https://telegram.me/joinchat/ALJ3izwBCNXSswCHOKMwGw) [![https://telegram.me/Yago_Perez](https://img.shields.io/badge/💬_Telegram-Yago__Perez-blue.svg)](https://telegram.me/Yago_Perez) [![https://gitter.im/yagop/telegram-bot](https://img.shields.io/badge/💬_Gitter-Join_Chat-green.svg)](https://gitter.im/yagop/telegram-bot])
+LiuxTG First Version
 [![Donate button](https://img.shields.io/badge/Red_Cross-donate-yellow.svg)](https://www.icrc.org/ "Donate to Red Cross Society")
 
 A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).
@@ -318,10 +315,9 @@ Bot Commands
   </tbody>
 </table>
 
-[Installation](https://github.com/yagop/telegram-bot/wiki/Installation)
 ------------
 ```bash
-# Tested on Ubuntu 14.04, for other OSs check out https://github.com/yagop/telegram-bot/wiki/Installation
+# Tested on Ubuntu 14.04, for other OSs check out https://github.com/LinuxTeam98/Linuxer
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 ```
 
@@ -334,7 +330,7 @@ cd telegram-bot
 ./launch.sh # Will ask you for a phone number & confirmation code.
 ```
 
-Enable more [`plugins`](https://github.com/yagop/telegram-bot/tree/master/plugins)
+Enable more [`plugins`](https://github.com/LinuxTeam98/Linuxer/tree/master/plugins)
 -------------
 See the plugins list with `!plugins` command.
 
@@ -358,6 +354,4 @@ $ sudo stop telegram # To stop it
 
 Contact me
 ------------
-You can contact me [via Telegram](https://telegram.me/yago_perez) but if you have an issue please [open](https://github.com/yagop/telegram-bot/issues) one.
-
-[Join](https://telegram.me/joinchat/ALJ3izwBCNXSswCHOKMwGw) on the TelegramBot Discussion Group.
+You can contact me [via Telegram](https://telegram.me/Sudo_linuxTg) but if you have an issue please [open](https://github.com/yLinuxTeam98/Linuxer/issues) one_pe.
